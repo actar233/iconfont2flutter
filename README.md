@@ -11,4 +11,4 @@ iconfont2flutter [输入路径] [输出路径] [可选-生成代码的的类名�
 iconfont2flutter '/home/download/iconfont' '/home/dart_demo/lib/font/icon_font.dart'
 
 结果：
-![截图](https://github.com/actar676309180/iconfont2flutter/blob/master/images/2018-10-03%2019-47-44.png)
+![截图](https://github.com/actar676309180/iconfont2flutter/raw/master/images/2018-10-03%2019-47-44.png)
